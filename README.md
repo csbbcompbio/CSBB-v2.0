@@ -25,7 +25,7 @@ What's New:
 
 ****** RNA-SEQ pipeline does not work for windows currently ********
 
-### Your FeedBack is very important to me #####
+### Your FeedBack is very important to us #####
 
 CSBB-v2.0 Bugs and Issues:
 
