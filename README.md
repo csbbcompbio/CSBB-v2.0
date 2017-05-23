@@ -1,6 +1,6 @@
-# CSBB-v2.0
+# CSBB-v2.1
 
-Download CSBB-v2.0 ! Computational Suite for Bioinformaticians and Biologists from https://sourceforge.net/projects/csbb-v2-0/
+Download CSBB-v2.1 ! Computational Suite for Bioinformaticians and Biologists from https://sourceforge.net/projects/csbb-v2-1/
 
 What's New:
 
@@ -18,15 +18,21 @@ What's New:
  
 7) Auto download and update for R packages
 
-8) Bug Fixes
+8) Fixed Issues where Linux users who didn't have root access were facing issues of R not able to install and use packages for some modules
+
+9) Added new visualization module named ExpressionPlot for visualizing trends of gene/entity expression/information across samples/objects
+
+10) Added new PCA visualization [Both interactive and Static]
+
+11) Bug Fixes
 
    
-****** Version2 addition/updates only for MacOS and LINUX *********
+****** Version2.1 addition/updates only for MacOS and LINUX *********
 
 ****** RNA-SEQ pipeline does not work for windows currently ********
 
 ### Your FeedBack is very important to us #####
 
-CSBB-v2.0 Bugs and Issues:
+CSBB-v2.1 Bugs and Issues:
 
-Please contact Praneet Chatuvedi on SourceForge https://sourceforge.net/projects/csbb-v2-0/ or email to praneet198@hotmail.com or post your issues on https://github.com/csbbcompbio/CSBB-v2.0
+Please contact Praneet Chatuvedi on SourceForge https://sourceforge.net/projects/csbb-v2-1/ or email to praneet198@hotmail.com or post your issues on https://github.com/csbbcompbio/CSBB-v2.0
